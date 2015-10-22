@@ -1,5 +1,5 @@
 {
-"url": "http://",
+"url": "https://raw.githubusercontent.com/guming3d/thinkbox/master/",
 "name": "thinkbox_v2_apk.apk",
 "version_code": "2",
 "version_name": "2.0",
