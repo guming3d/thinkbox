@@ -1,6 +1,6 @@
 {
 "url": "http://",
-"name": "thinkbox_v2_apk",
+"name": "thinkbox_v2_apk.apk",
 "version_code": "2",
 "version_name": "2.0",
 "notes": [
